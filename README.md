@@ -31,13 +31,15 @@ more soon ..
 ### 👋 Let's Connect!
 
 I'm always open to discussing new development projects or security topics. Feel free to reach out!
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/salah-yasser-1ab83838b)
 
-<p align="left">
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:solahyasser@gmail.com)
+<!-- <p align="left">
   <a href="www.linkedin.com/in/salah-yasser-1ab83838b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:solahyasser@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  </p>
+  </p> -->
 
