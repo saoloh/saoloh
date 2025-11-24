@@ -1,13 +1,10 @@
 <h1 align="center">Hi there 👋 MY NAME IS SALAH</h1> 
----
-I AM A junior FRONTEND DEVELOPER
 
-
+## I AM A junior FRONTEND DEVELOPER
 
 - 🔭 I’m currently working on Meta frontend track
 - 🌱 I’m currently learning React
-- 🔭 I’m currently building a study bot for discord with javascript
-- i am learning penetration tester
+- 🌱 I’m learning penetration tester
 - my website : ...........
 
   ---
@@ -29,9 +26,6 @@ more soon ..
 
 ---
 ### 👋 Let's Connect!
-
-I'm always open to discussing new development projects or security topics. Feel free to reach out!
-
 ---
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/salah-yasser-1ab83838b)
