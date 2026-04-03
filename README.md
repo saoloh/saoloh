@@ -2,9 +2,9 @@
 
 ## I AM A junior FRONTEND DEVELOPER
 
-- 🔭 I’m currently working on Meta frontend track
-- 🌱 I’m currently learning React
-- 🌱 I’m learning penetration testing
+
+
+
 - my website : ...........
 
   ---
